@@ -2,8 +2,9 @@
 
 Studying CS and Math.  
 
-- Favorite Tools/Technologies: Visual Studio :smiley:, C++ :sunglasses:, JavaScript :grimacing:.  
+- :computer: Favorite Tools/Technologies: Visual Studio :smiley:, C++ :sunglasses:, JavaScript :grimacing:.  
 - 📫 Reach out to me at [Linkedin](https://www.linkedin.com/in/sai-bulusu-15472bb5/)
+- 😄 Check out my [personal website](https://saibulusu.github.io/)
 
 <!--
 **saibulusu/saibulusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
