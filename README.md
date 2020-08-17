@@ -2,8 +2,8 @@
 
 Studying CS and Math.  
 
-- Favorite Tools/Technologies: Visual Studio, C++.  
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-bulusu-15472bb5/)
+- Favorite Tools/Technologies: Visual Studio :smiley:, C++ :sunglasses:, JavaScript :grimacing:.  
+- 📫 Reach out to me at [Linkedin](https://www.linkedin.com/in/sai-bulusu-15472bb5/)
 
 <!--
 **saibulusu/saibulusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
