@@ -2,7 +2,6 @@
 
 Studying CS and Math.  
 
-- :computer: I use VS Code:smiley: , C++:sunglasses: , JavaScript:grimacing: .
 - 📫 Reach out to me at [Linkedin](https://www.linkedin.com/in/sai-bulusu-15472bb5/).
 - 😄 Check out my [personal website](https://saibulusu.github.io/)!
 
