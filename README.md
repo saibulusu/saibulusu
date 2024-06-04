@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&center=true&vCenter=true&width=450&lines=Hello there;Welcome to my profile;Software+Engineer;(neo)vim+enthusiast"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&center=true&vCenter=true&width=450&lines=Hello there 👋;Welcome to my profile 🎉;Software+Engineer 💻;(neo)vim+enthusiast 🔥"></a>
 </div>
