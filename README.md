@@ -17,5 +17,9 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&center=true&vCenter=true&width=450&lines=Hello there 👋;Welcome to my profile 🎉;Software+Engineer 💻;(neo)vim+enthusiast 🔥"></a>
 </div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saibulusu&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saibulusu&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saibulusu&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibulusu&layout=compact&card_width=320&theme=dracula" />
+</a>
