@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hello :fire:
 -->
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&center=true&vCenter=true&width=450&lines=Hello there 👋;Welcome to my profile 🎉;Software+Engineer 💻;(neo)vim+enthusiast 🔥"></a>
 </div>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saibulusu&show_icons=true&theme=dracula)
